@@ -1,0 +1,1 @@
+# Scraping-and-Analyzing-Video-Komang---Raim-Laode-using-Sentiment-Bigram-Trigram-Analysis
